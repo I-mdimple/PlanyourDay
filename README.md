@@ -3,7 +3,7 @@
 > A Minecraft-themed daily planner, diary, to-do list & reminder app.
 > **Installable as a free app — no App Store needed!**
 
-🌐 **Live:** https://YOURUSERNAME.github.io/planyourday
+🌐 **Live:** (https://i-mdimple.github.io/PlanyourDay/)
 
 ---
 
@@ -36,35 +36,3 @@ The app now lives on your home screen, works **offline**, and feels like a nativ
 
 ---
 
-## 🚀 Deploy Your Own (Free)
-
-1. Fork this repo
-2. Go to **Settings → Pages → Source: main / root**
-3. Done — live at `https://YOURUSERNAME.github.io/planyourday`
-
----
-
-## 🗂 Files
-
-```
-planyourday/
-├── index.html          ← The entire app
-├── manifest.json       ← PWA config (makes it installable)
-├── sw.js               ← Service worker (offline support)
-├── icon-192.png        ← App icon (Android)
-├── icon-512.png        ← App icon (large)
-├── apple-touch-icon.png← App icon (iPhone)
-├── favicon-32.png      ← Browser tab icon
-└── README.md
-```
-
----
-
-## 🔒 Privacy
-All data stored locally on your device. No server. No account. No tracking.
-
-## 📄 License
-MIT — free to use and modify.
-
----
-*Craft your quest. Conquer your day. ⚔️*
